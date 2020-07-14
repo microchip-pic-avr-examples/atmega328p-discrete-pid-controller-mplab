@@ -40,4 +40,4 @@ This code example is based on the document [AVR221 - Discrete PID Controller on 
 
 ## Conclusion
 
-This project has now illustrated how to create a simple PID controller for tinyAVR and megaAVR devices from Microchip.
+This code example has illustrated how to create a simple PID controller for tinyAVR and megaAVR devices from Microchip.
