@@ -62,7 +62,7 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>Simulator</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.20</languageToolchainVersion>
+        <languageToolchainVersion>2.29</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
@@ -661,7 +661,7 @@
         <targetPluginBoard></targetPluginBoard>
         <platformTool>Simulator</platformTool>
         <languageToolchain>XC8</languageToolchain>
-        <languageToolchainVersion>2.20</languageToolchainVersion>
+        <languageToolchainVersion>2.29</languageToolchainVersion>
         <platform>3</platform>
       </toolsSet>
       <packs>
