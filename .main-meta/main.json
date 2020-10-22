@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplab.project.atmega328p-discrete-pid-controller-mplab",
+        "name": "com.microchip.mcu8.mplabx.project.atmega328p-discrete-pid-controller-mplab",
         "version": "1.0.0",
         "displayName": "Discrete PID Controller on tinyAVR and megaAVR Devices",
         "projectName": "atmega328p-discrete-pid-controller-mplab",
@@ -45,15 +45,13 @@
             ],
             [
                 "Development Kit",   
-                "ATmega Xplained Mini"
+                "ATmega328P Xplained Mini"
             ]
         ],
         "peripherals": [
             "TC0"
         ],
         "keywords": [
-            "",
-            ""
         ],
         "additionalData": {
             "longDescription": {
