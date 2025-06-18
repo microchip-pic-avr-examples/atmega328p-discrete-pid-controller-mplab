@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.atmega328p-discrete-pid-controller-mplab",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "Discrete PID Controller on tinyAVR and megaAVR Devices",
         "projectName": "atmega328p-discrete-pid-controller-mplab",
         "shortDescription": "This repository describes a simple implementation of a discrete Proportional-Integral-Derivative (PID) controller for tinyAVR and megaAVR devices from Microchip.",
