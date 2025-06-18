@@ -10,17 +10,17 @@
         "shortDescription": "This repository describes a simple implementation of a discrete Proportional-Integral-Derivative (PID) controller for tinyAVR and megaAVR devices from Microchip.",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=5.40.0"
+            "semverRange": ">=6.25.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.29.0"
+                "semverRange": "^3.00.0"
             }
         ],
         "dfp": {
             "name": "ATmega_DFP",
-            "semverRange": "^2.2.108"
+            "semverRange": "^3.4.282"
         },
         "configurator": {
             "name": "N/A",
