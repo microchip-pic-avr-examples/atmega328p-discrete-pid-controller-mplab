@@ -16,9 +16,9 @@ This code example is based on the document [AVR221 - Discrete PID Controller on 
 
 ## Software Used
 
-- [MPLAB® X IDE](http://www.microchip.com/mplab/mplab-x-ide) 5.40 or later
-- [ATmega DFP](http://packs.download.atmel.com/) 2.2.108 or later
-- [MPLAB® XC8](http://www.microchip.com/mplab/compilers) 2.20 or a later
+- [MPLAB® X IDE](http://www.microchip.com/mplab/mplab-x-ide) 6.25 or later
+- [ATmega DFP](http://packs.download.atmel.com/) 3.4.282 or later
+- [MPLAB® XC8](http://www.microchip.com/mplab/compilers) 3.00 or later
 - [AVR/GNU C Compiler](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers) 5.4.0 or later
 
 
